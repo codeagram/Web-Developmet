@@ -1,1 +1,2 @@
-My web development projects
+My web development projects.
+
